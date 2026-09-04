@@ -31,7 +31,6 @@ React SPA  --(fetch /api/*)-->  Express REST API  -->  SQLite (vouchers.db)
 airline-voucher-seat-generator/
 ├── backend/     # Express + TypeScript API, SQLite database, Jest tests
 ├── frontend/    # React + TypeScript UI, Tailwind CSS, Vitest tests
-├── docs/        # Code-review findings and the remediation plan
 ├── docker-compose.yml
 └── README.md
 ```
